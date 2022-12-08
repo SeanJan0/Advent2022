@@ -6,3 +6,4 @@ Day 3: C#
 Day 4: C
 Day 5: Javascript
 Day 6: Rust
+Day 6: Go
