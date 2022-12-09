@@ -19,3 +19,5 @@ Day 6: Rust
 Day 7: Go
 
 Day 8: R
+
+Day 9: Ruby
