@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-### First time doing advent of code. I'm attempting to solve each day with a different language, starting with popular and universal languages and hopefully ending with something unusual.
+### First time doing advent of code. I'm attempting to solve each day with a different language, starting with popular and universal languages and hopefully ending with something unusual
 
 <br/>
 
@@ -29,3 +29,5 @@ Day 11: Dart
 Day 12: Lua
 
 Day 13: Julia
+
+Day 14: Haskell (Damn this one was hard)
