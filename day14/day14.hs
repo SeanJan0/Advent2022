@@ -13,7 +13,7 @@ main = do
     -- part 2
     let empty2 = createMap 1000 (max + 5)
     let map2 = placeLine (parseInput empty2 input) 0 (max + 2) 999 (max + 2)
-    let p2 = countSand2 map2 1
+    let p2 = countSand2 map2 0
     print p2
 
 findMaxY :: [String] -> Int -> Int
@@ -101,5 +101,5 @@ countSand2 :: [[Char]] -> Int -> Int
 countSand2 m count = do
     let pos = validRest m [500, 0]
     if pos == [500, 0]
-        then count
+        then count + 1
         else countSand2 (placeBlock m (pos !! 0) (pos !! 1) 'o') (count + 1)
