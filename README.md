@@ -30,4 +30,6 @@ Day 12: Lua
 
 Day 13: Julia
 
-Day 14: Haskell (Damn this one was hard)
+Day 14: Haskell
+
+Day 15: Perl
